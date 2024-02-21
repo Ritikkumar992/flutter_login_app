@@ -1,16 +1,7 @@
-# login_app
+# login_app ❄️
 
-A new Flutter project.
+A new Flutter project. 🔖
 
-## Getting Started
+## Sample Video 🔥
+<video src = "https://github.com/Ritikkumar992/flutter_login_app/assets/75531808/bbf4a89b-40ce-4175-86ee-12d3fd8f6b22"> </video>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
